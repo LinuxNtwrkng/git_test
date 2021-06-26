@@ -1,0 +1,4 @@
+---
+deployment:
+ tasks:
+ - /bin/cp testfile.txt testfile2.txt
